@@ -72,15 +72,15 @@ I'm a passionate **Full-Stack Developer** and **IT Graduate** with hands-on expe
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahilshaikh11&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilshaikh11&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilshaikh11&theme=radical" alt="GitHub Streak" />
 </div>
 
@@ -97,21 +97,10 @@ I'm a passionate **Full-Stack Developer** and **IT Graduate** with hands-on expe
 
 ## 🤝 Let's Connect!
 
-<div align="center">
+<div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahil-shaikh-1aa213231/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahilshaikh11)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhsahil4495@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919328468980)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahilshaikh11&color=brightgreen&style=flat-square" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Sahilshaikh11">Shahil Shaikh</a></i>
 </div>
