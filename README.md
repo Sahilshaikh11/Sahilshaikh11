@@ -4,7 +4,6 @@
 
 I'm a passionate **Full-Stack Developer** and **IT Graduate** with hands-on experience in building responsive mobile and web applications. I love creating scalable solutions and exploring the intersection of technology and innovation.
 
-- 🔭 Currently working as an **ABAP Developer** intern at Edunet Foundation
 - 🌱 Learning advanced **AI/ML concepts** and **cloud technologies**
 - 👯 Open to collaborating on **mobile apps**, **web applications**, and **AI projects**
 - 💬 Ask me about **Flutter**, **Python**, **RESTful APIs**, and **cross-platform development**
